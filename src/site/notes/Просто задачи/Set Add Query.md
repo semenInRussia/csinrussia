@@ -24,6 +24,8 @@
 
 # Код
 ```cpp
+// Copyright 2024 semenInRussia
+
 #include <iostream>
 #include <unordered_set>
 #include <vector>
@@ -52,8 +54,7 @@ int main() {
   for (int j : s)
     a[j] += cur - prv[j];
 
-  for (int x: a) cout << x << ' ';
+  for (auto x : a) cout << x << ' ';
 }
-
 ```
 
