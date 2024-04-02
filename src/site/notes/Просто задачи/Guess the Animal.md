@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/prosto-zadachi/guess-the-animal/"}
 ---
 
-Это ещё одна #задача с [[Сайты/usaco.guide\|usaco.guide]].  Это задача из главы [*Complete Search*](https://usaco.guide/bronze/intro-complete), хоть этой задачи явно нельзя дать категорию, я бы дал *Декомпозиция*, по традиции [[Сайты/МИРЭА\|МИРЭА]], но *Complete Search* это не сюда
+Это ещё одна #задача с [[Сайты/usaco.guide\|usaco.guide]].  Это задача из главы [*Complete Search*](https://usaco.guide/bronze/intro-complete), хоть этой задачи явно нельзя дать категорию, я бы дал *Декомпозиция*, по традиции [[МИРЭА\|МИРЭА]], но *Complete Search* это не сюда
 
 https://usaco.org/index.php?page=viewproblem2&cpid=893
 
